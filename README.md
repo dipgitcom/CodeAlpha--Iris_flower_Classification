@@ -25,7 +25,7 @@ This project is a web-based application for classifying Iris flower species usin
 
 ## 📊 Dataset
 - **Dataset Name**: Iris Flower Dataset
-- **Source**: [Scikit-learn Datasets](https://scikit-learn.org/stable/datasets.html#iris-dataset)
+- **Source**: https://github.com/dipgitcom/CodeAlpha--Iris_flower_Classification/blob/main/iris_model.pkl
 - **Description**: The dataset consists of 150 samples from three species of Iris flowers:
   - Iris-setosa
   - Iris-versicolor
